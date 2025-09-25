@@ -1,0 +1,25 @@
+# Ignore everything
+*
+
+# Allow directories 
+!*/
+
+# Allow source files by extension 
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+!*.java
+!*.py
+!*.js
+!*.ts
+!*.html
+!*.css
+!*.md
+
+# Allow project structures
+!src/**
+
+# Allow README or LICENSE files
+!README.md
+!LICENSE
